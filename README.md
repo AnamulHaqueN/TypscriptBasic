@@ -1,6 +1,8 @@
+# TypeScript Installation Guide
 
+---
 
-Install TypeScript Globally
+## Install TypeScript Globally
 #npm install -g typescript
 check install or not
 #tsc --version or
